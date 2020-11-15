@@ -21,7 +21,6 @@
 #include "GraphConv_2D/GraphConv_2D.h"
 #include "PNG/png_common.h"
 
-
 int main(void)
 {
 	vector<unsigned char> vect,vect2;
